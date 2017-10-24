@@ -1,1 +1,1 @@
-# striker-eureka
+# striker-eureka-source
